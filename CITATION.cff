@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Online ECU Checksum & CVN Verification Tool — MEDC17, MD1, MG1, SID, DCM & Denso (v1.0.44)"
+version: "1.0.44"
+date-released: "2026-11-06"
+url: "https://www.davincideluxe.fr/checksum-tool"
+repository-code: "https://github.com/DavinciDeluxe/ecu-checksum-correction-tool"
+authors:
+  - name: "Roland & The DaVinci Deluxe Engineering Team"
