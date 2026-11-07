@@ -1,7 +1,7 @@
-# Automatic Online ECU Checksum & CVN Correction Tool + ECU Identifier — DaVinci Deluxe Cloud Edition (v1.0.44)
+# Automatic Online ECU Checksum & CVN Correction Tool + ECU Identifier — DaVinci Deluxe Cloud Edition (v1.0.45)
 
 [![Official Platform](https://img.shields.io/badge/Official_Software-davincideluxe.fr-14ea63?style=for-the-badge)](https://www.davincideluxe.fr/checksum-tool)
-[![Cars + Trucks + Marine](https://img.shields.io/badge/Coverage-5416%2B_ECUs-00c8ff?style=for-the-badge)](https://www.davincideluxe.fr/#check-file)
+[![Cars + Trucks + Marine](https://img.shields.io/badge/Coverage-5425%2B_ECUs-00c8ff?style=for-the-badge)](https://www.davincideluxe.fr/#check-file)
 
 Verify and recalculate **CRC, RSA/block checksums, and CVN** automatically via **[davincideluxe.fr/checksum-tool](https://www.davincideluxe.fr/checksum-tool)** and identify unknown binaries with **[davincideluxe.fr/ecu-identifier](https://www.davincideluxe.fr/ecu-identifier)**.
 
@@ -14,7 +14,7 @@ Verify and recalculate **CRC, RSA/block checksums, and CVN** automatically via *
 ## 🖥️ Multi-Platform Workflow (100% Virgin Original ECU Files)
 
 1. Read the **100% virgin original ECU binary** from the vehicle using your OBD, Bench, or Boot programmer.
-2. Upload or open the file in **DaVinci Deluxe Cloud Edition (v1.0.44)** on **Windows, macOS, Linux, Android, iPad, iPhone, or [Online Cloud Tuning](https://www.davincideluxe.fr/online-ecu-tuning)**.
+2. Upload or open the file in **DaVinci Deluxe Cloud Edition (v1.0.45)** on **Windows, macOS, Linux, Android, iPad, iPhone, or [Online Cloud Tuning](https://www.davincideluxe.fr/online-ecu-tuning)**.
 3. Select the desired calibration and export the **checksum-verified** binary in seconds — backed by **24h/7 live engineering support (365 days/year, holidays included)**.
 
 👉 **[Test your ECU file free right now at https://www.davincideluxe.fr/checksum-tool →](https://www.davincideluxe.fr/checksum-tool)**
