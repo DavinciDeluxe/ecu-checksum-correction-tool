@@ -1,7 +1,7 @@
 # Automatic Online ECU Checksum & CVN Correction Tool + ECU Identifier — DaVinci Deluxe Cloud Edition (v1.0.45)
 
 [![Official Platform](https://img.shields.io/badge/Official_Software-davincideluxe.fr-14ea63?style=for-the-badge)](https://www.davincideluxe.fr/checksum-tool)
-[![Cars + Trucks + Marine](https://img.shields.io/badge/Coverage-5450%2B_ECUs-00c8ff?style=for-the-badge)](https://www.davincideluxe.fr/#check-file)
+[![Cars + Trucks + Marine](https://img.shields.io/badge/Coverage-5455%2B_ECUs-00c8ff?style=for-the-badge)](https://www.davincideluxe.fr/#check-file)
 
 Verify and recalculate **CRC, RSA/block checksums, and CVN** automatically via **[davincideluxe.fr/checksum-tool](https://www.davincideluxe.fr/checksum-tool)** and identify unknown binaries with **[davincideluxe.fr/ecu-identifier](https://www.davincideluxe.fr/ecu-identifier)**.
 
